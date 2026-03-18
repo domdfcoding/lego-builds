@@ -30,3 +30,8 @@ repos:
    hooks:
     - id: remove-crlf
     - id: forbid-crlf
+
+ - repo: https://github.com/domdfcoding/ldr-lint
+   rev: 8e669e4
+   hooks:
+    - id: ldr-lint
