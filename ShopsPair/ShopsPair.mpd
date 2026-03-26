@@ -1,9 +1,9 @@
-1 4 60 0 40 -1 0 0 0 1 0 0 0 -1 Shopfront.ldr
-1 4 660 0 40 -1 0 0 0 1 0 0 0 -1 Shopfront.ldr
-1 4 60 -224 80 -1 0 0 0 1 0 0 0 -1 FF_Left.ldr
-1 4 660 -224 80 -1 0 0 0 1 0 0 0 -1 FF_Right.ldr
-1 4 60 -424 80 -1 0 0 0 1 0 0 0 -1 Roof_Left.ldr
-1 4 660 -424 80 -1 0 0 0 1 0 0 0 -1 Roof_Right.ldr
+1 4 60 0 40 1 0 0 0 1 0 0 0 1 Shopfront.ldr
+1 4 660 0 40 1 0 0 0 1 0 0 0 1 Shopfront.ldr
+1 4 60 -224 120 1 0 0 0 1 0 0 0 1 FF_Left.ldr
+1 4 660 -224 120 1 0 0 0 1 0 0 0 1 FF_Right.ldr
+1 4 60 -424 80 1 0 0 0 1 0 0 0 1 Roof_Left.ldr
+1 4 660 -424 80 1 0 0 0 1 0 0 0 1 Roof_Right.ldr
 1 4 360 0 80 1 0 0 0 1 0 0 0 1 Entrance.ldr
 1 16 360 -224 135 1 0 0 0 1 0 0 0 1 FF_Middle.ldr
 1 16 360 -440 60 1 0 0 0 1 0 0 0 1 Roof_Middle.ldr
