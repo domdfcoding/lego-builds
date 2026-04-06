@@ -7,7 +7,7 @@ ci:
 
 repos:
  - repo: https://github.com/pre-commit/pre-commit-hooks
-   rev: v3.4.0
+   rev: v6.0.0
    hooks:
     - id: check-added-large-files
     - id: check-ast
@@ -26,12 +26,12 @@ repos:
     - id: end-of-file-fixer
 
  - repo: https://github.com/Lucas-C/pre-commit-hooks
-   rev: v1.5.1
+   rev: v1.5.6
    hooks:
     - id: remove-crlf
     - id: forbid-crlf
 
  - repo: https://github.com/domdfcoding/ldr-lint
-   rev: 8e669e4
+   rev: 8e669e43dd25515fc13a8549ad39ccfa2ae3f9a8
    hooks:
     - id: ldr-lint
