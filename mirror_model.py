@@ -9,7 +9,7 @@ for line in model:
 	if isinstance(line, SubFileReference):
 		line.x *= -1
 	# 	line.y *= 1
-	
+
 	new_model.append(line)
 
 write_to_file(new_model, "ShopsPair/Roof_Right.ldr")
@@ -22,7 +22,7 @@ for line in model:
 	if isinstance(line, SubFileReference):
 		line.x *= -1
 	# 	line.y *= 1
-	
+
 	new_model.append(line)
 
 write_to_file(new_model, "ShopsPair/FF_Right.ldr")
